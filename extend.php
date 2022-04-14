@@ -4,6 +4,7 @@ namespace ClarkWinkelmann\FormattedBanner;
 
 use Flarum\Api\Serializer\ForumSerializer;
 use Flarum\Extend;
+use Flarum\Settings\Event\Deserializing;
 use Flarum\Settings\Event\Saving;
 
 return [
@@ -20,5 +21,6 @@ return [
         ->attributes(ForumAttributes::class),
 
     (new Extend\Event())
-        ->listen(Saving::class, ParseSettings::class),
+        ->listen(Saving::class, ParseSettings::class)
+        ->listen(Deserializing::class, UnparseSettings::class),
 ];
