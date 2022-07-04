@@ -1,6 +1,6 @@
 # Formatted Banner
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner/blob/master/LICENSE.md) [![Latest Stable Version](https://img.shields.io/packagist/v/clarkwinkelmann/flarum-ext-formatted-banner.svg)](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner) [![Total Downloads](https://img.shields.io/packagist/dt/clarkwinkelmann/flarum-ext-formatted-banner.svg)](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner) [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/clarkwinkelmann)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner/blob/main/LICENSE.txt) [![Latest Stable Version](https://img.shields.io/packagist/v/clarkwinkelmann/flarum-ext-formatted-banner.svg)](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner) [![Total Downloads](https://img.shields.io/packagist/dt/clarkwinkelmann/flarum-ext-formatted-banner.svg)](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner) [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/clarkwinkelmann)
 
 This extension adds a customizable banner to Flarum homepage or all pages.
 
@@ -37,7 +37,10 @@ You can [contact me](https://clarkwinkelmann.com/flarum) to sponsor additional f
 
 Support is offered on a "best effort" basis through the Flarum community thread.
 
+**Sponsors**: [Dater.com](https://dater.com/)
+
 ## Links
 
 - [GitHub](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner)
 - [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner)
+- [Discuss](https://discuss.flarum.org/d/31152)

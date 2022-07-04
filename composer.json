@@ -19,7 +19,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/clarkwinkelmann/flarum-ext-formatted-banner"
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-formatted-banner",
+        "forum": "https://discuss.flarum.org/d/31152"
     },
     "autoload": {
         "psr-4": {
